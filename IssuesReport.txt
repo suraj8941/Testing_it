@@ -1,0 +1,4 @@
+2022-01-01_10:00:00  Incident Description:Server_crash  Server Name:Dev_serverSeverity:High
+2022-01-02_15:30:00  Incident Description:Database_corruption  Server Name:DBA_server      Severity:Mid
+2022-01-03_08:45:00  Incident Description:Network_outage  Server Name:DBA_server          Severity:High
+2022-01-04_12:15:00  Incident Description:Security_breach  Server Name:Dev_serverSeverity:Mid

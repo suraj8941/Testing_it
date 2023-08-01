@@ -1,0 +1,4 @@
+2022-01-01_10:00:00,Server_crash,Dev_server
+2022-01-02_15:30:00,Database_corruption,DBA_server      
+2022-01-03_08:45:00,Network_outage,DBA_server          
+2022-01-04_12:15:00,Security_breach,Dev_server

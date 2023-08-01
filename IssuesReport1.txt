@@ -1,0 +1,5 @@
+100 Report a problem  TV not working    4
+101 Access Issue  Access card not working    3
+102 General Enquiry  know charge details    2
+103 Feedback  Good Support by team    1
+105 Feedback  Bad Support by team    1
